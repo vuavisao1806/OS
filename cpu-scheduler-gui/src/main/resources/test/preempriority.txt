@@ -1,0 +1,5 @@
+order: ascending
+pid: 1,2,3,4,5
+time arrive: 0,0,0,0,0
+priority: 3,1,4,5,2
+burst time: 10,1,2,1,5

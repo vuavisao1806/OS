@@ -1,0 +1,6 @@
+cpu scheduler type: 5,20;3;0
+pid: 1,2,3,4,5,6,7
+time arrive: 0,30,30,0,120,60,130
+priority: 0,0,0,0,0,0,0
+burst time: 50,15,45,40,10,30,20
+queue order: 0,0,0,1,1,2,2

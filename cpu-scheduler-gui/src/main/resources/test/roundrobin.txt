@@ -1,0 +1,4 @@
+time quantum: 4
+pid: 1,2,3
+time arrive: 0,0,0
+burst time: 24,3,3
