@@ -1,0 +1,11 @@
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/HelloApplication.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/HelloController.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/Launcher.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/AlgorithmType.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/DeadlockDetectionSolver.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/Main.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/Parser.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/ResourceRequestSolver.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/Resources.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/com/deadlock/algorithms/SafetySolver.java
+/home/vuavisao/Documents/World-OS/deadlock/src/main/java/module-info.java
